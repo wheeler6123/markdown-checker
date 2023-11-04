@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^3.0.9",
+    "marked": "^12.0.1"
+  }
 }
