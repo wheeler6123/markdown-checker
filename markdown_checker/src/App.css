@@ -22,3 +22,11 @@ body {
     margin-bottom: 1rem;
     font-size: 2rem;
 }
+
+.editor-input, .markdown-preview {
+    color: #dddddd;
+    background-color: #20232a;
+    border: 1px solid #61dafb;
+    padding: 1rem;
+    border-radius: 5px;
+}
