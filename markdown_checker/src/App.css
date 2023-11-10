@@ -30,3 +30,10 @@ body {
     padding: 1rem;
     border-radius: 5px;
 }
+
+.editor-input {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    resize: none;
+    font-size: 1rem;
+}
