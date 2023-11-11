@@ -37,3 +37,11 @@ body {
     resize: none;
     font-size: 1rem;
 }
+
+.markdown-preview {
+    grid-column: 2/2;
+    grid-row: 2/3;
+    overflow: auto;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
