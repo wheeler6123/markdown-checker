@@ -45,3 +45,8 @@ body {
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
+
+.markdown-preview > * {
+    margin-top: 0;
+    padding-top: 0;
+}
