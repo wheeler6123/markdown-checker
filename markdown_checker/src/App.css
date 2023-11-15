@@ -70,3 +70,18 @@ body {
 .export-button:hover {
     background-color: #4fa1db;
 }
+
+/* Styling for the scrollbar for webkit browsers */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #20232a;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #61dafb;
+    border-radius: 10px;
+    border: 3px solid #20232a;
+}
